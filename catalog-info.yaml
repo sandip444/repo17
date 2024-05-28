@@ -4,6 +4,4 @@ kind: Component
 metadata:
   name: repo17
 spec:
-  type: service
-  lifecycle: production
-  owner: sandip
+
